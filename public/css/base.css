@@ -103,13 +103,14 @@ body, html {
   line-height: 1.42857143;
 }
 #content {
-  font-size: 12px;
+  font-size: 16px;
+  color: #00000A;  /*Ma: change the color of the main text   */
 }
 #content h2, h3 {
   line-height: 2;
 }
 blockquote p {
-  font-size: 18px;
+  font-size: 16px;
 }
 /* 其他配置 */
 .center {
