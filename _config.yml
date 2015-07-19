@@ -6,11 +6,11 @@ markdown: redcarpet
 author: 
   name: horse
   email: equusprobus@gmail.com
-  link: 
-  weibo: 
-  github: 
-  music:
-  linkedin: 
+  #link: 
+  #weibo: 
+  #github: 
+  #music:
+  #linkedin: 
 
 # 站点信息
 title: 自由而无用的灵魂
