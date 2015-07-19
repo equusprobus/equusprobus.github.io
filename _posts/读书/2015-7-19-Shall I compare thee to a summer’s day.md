@@ -2,7 +2,7 @@
 layout: post
 title: Shall I compare thee to a summer’s day?
 category: 读书
-tags: Shakespeare, 红楼梦
+tags: Shakespeare 红楼梦
 keywords: 
 description: 
 ---
