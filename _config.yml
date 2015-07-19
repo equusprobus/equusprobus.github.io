@@ -5,7 +5,7 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: horse
-  email: 
+  email: equubprobus@gmail.com
   link: 
   weibo: 
   github: 
@@ -13,7 +13,7 @@ author:
   linkedin: 
 
 # 站点信息
-title: 
+title: 自由而无用的灵魂
 description: My personal blog
 url: 
 rss_url: /pages/atom.xml
