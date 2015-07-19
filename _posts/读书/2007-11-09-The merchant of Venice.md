@@ -21,15 +21,18 @@ description:
 铅的：Who chooseth me must give and hazard all he hath.  
 前边两个很搞笑的王子分别选了金的和银的，自然是错了——金的里面是个骷髅，银的则是个傻瓜的笑脸。Bassanio选了铅的，里面是Portia的画像，结果是“抱得美人归”。那么为什么Bassanio会选这个铅的匣子呢？
 他的理由很简单：“The world is still deceived with ornament”，很有点视金银如粪土的意味。而这样的人正是Portia的父亲觉得可以接受的。  
+
 值得注意的一点是，Bassanio压根就没读匣子上面的话，事实上我觉得那些话更有深意。  
 金的是"get what many men desire"，是啊，金钱，美女，选对了就全有了，如果你选这个，明显是动机不纯；银的是"get as much as he deserves",表面上看冠冕堂皇，但爱情不是交易，没有什么deserve不deserve的问题。现代人大抵把爱情看作交易，“找个和自己条件差 不多的”，抱这样的心态的人是娶不到我们的Portia的。  
 那么"must give and hazard all he hath"该怎么理解呢？是借此把那些动机不纯的人吓走吗？好像有点。。。但让我们先看看参加求婚的人必须遵守的三个条件吧！  
 1. 不能向任何人透露自己选的是什么；  
 2. 如果失败了，不能再向任何女人求婚；  
 3. 选错了就要马上离开。  
+
 大家试着想象这样一个场景：你深爱着一个女人，当你向她求婚的时候，她老爸说：“慢着，要娶我女儿抛一个硬币先，如果是正面今晚就给你俩圆房，如果是反面，对不起，你一辈子就别想娶我女儿了。”  
 你拿起硬币，上面刻着一句话：  
 "Who chooseth me must give and hazard all he hath".  
+
 现在你能体会这句话的含义了吧。如果你只是垂涎Portia的美貌和财富，那你去求婚不过是一场赌博；如果你真爱着她，那，OK，还是赌博，但万一 失败，那你将永远失去她。看看Bassanio做选择的那一场吧，我觉得Portia表现得远远比Bassanio真诚，选择前的犹豫不决，之后的紧张不 安，看到Bassanio选对时的狂喜，之后对白时的谦卑，都比Bassanio生动得多。这也说明Bassanio不是个感情细腻的人，从他选择时只看 材质不看文字也可以看得出。不过昨晚演Bassanio的那位却是个白面书生式的帅哥，而且左耳带着耳环。  
 "Since this fortune falls to you,  
 Be content and seek no new."  
@@ -48,5 +51,5 @@ Shylock是剧中的反面人物，就是要割Antonio一镑肉的那个犹太商
 不知道为什么，总觉得凡是作的女人都有一位好父亲。。。
 
 5.结束语：  
-How far that little candle throw its beam!  
-So shines a good deed in a naughty world.  
+__How far that little candle throw its beam!  
+So shines a good deed in a naughty world.__
