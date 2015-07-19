@@ -51,5 +51,5 @@ Shylock是剧中的反面人物，就是要割Antonio一镑肉的那个犹太商
 不知道为什么，总觉得凡是作的女人都有一位好父亲。。。
 
 5.结束语：  
-__How far that little candle throw its beam!  
-So shines a good deed in a naughty world.__
+How far that little candle throw its beam!  
+So shines a good deed in a naughty world.
