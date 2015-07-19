@@ -19,8 +19,8 @@ url:
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/me/horse.jpg
-favicon: /public/img/horse.jpg
+gavatar: /public/img/me/horse.png
+favicon: /public/img/horse.png
 
 # google analytics 设置
 ga:
