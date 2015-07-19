@@ -20,6 +20,5 @@ Nor lose possession of that fair thou owest;
 Nor shall Death brag thou wander’st in his shade,  
 When in eternal lines to time thou growest:  
   So long as men can breathe or eyes can see,  
-  So long lives this and this gives life to thee.       
-
+  So long lives this and this gives life to thee.  
 *(Shakespeare, Sonnet 18)*
