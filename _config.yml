@@ -24,8 +24,8 @@ favicon: /public/img/me/horse.png
 
 # google analytics 设置
 ga:
-  id: 
-  url: 
+  id: UA-65276774-1
+  url: http://equusprobus.github.io/
 
 # disqus 设置
 disqus:
