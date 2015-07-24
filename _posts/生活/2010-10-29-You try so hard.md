@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-![keqing](/public/img/posts/take_him_to_greek.jpg)
+![embarassed](/public/img/posts/take_hime_to_greek.jpg)
 
 —— Are you OK?
 —— I am lonely, mate. I am really lonely. And I am sad. And I ain't got no one, except my mum, and she is an idoit. Now I am crying in front of you, and you thought I was cool, didn't you? for a while. and now I am crying. I am embrassessed. Embarassed.
