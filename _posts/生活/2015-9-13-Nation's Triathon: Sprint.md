@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nation's Triathon: Sprint
+title: Nation's Triathon:Sprint
 category: 生活
 tags: DC
 keywords: 
