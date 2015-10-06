@@ -36,7 +36,7 @@ Sprint排在OD后面，所以我可以先看一会儿别人的比赛。看到不
 
 我有说“下次”吗？嗯，我刚报了明年的三项比赛，Olympic Distance！
 
-成绩：
+成绩：  
 Swim (800m): 32.03 min 3.40/100 yards  
 T1: 7.18 min
 Bike (26.5km): 1:00:10 min 16.5/mph  
