@@ -38,7 +38,7 @@ Sprint排在OD后面，所以我可以先看一会儿别人的比赛。看到不
 
 成绩：  
 Swim (800m): 32.03 min 3.40/100 yards  
-T1: 7.18 min
-Bike (26.5km): 1:00:10 min 16.5/mph  
-T2: 3.51 min
-Run (5km): 10:19/mile
+T1: 7.18 min  
+Bike (26.5km): 1:00:10 min 16.5/mph    
+T2: 3.51 min  
+Run (5km): 10:19/mile  
