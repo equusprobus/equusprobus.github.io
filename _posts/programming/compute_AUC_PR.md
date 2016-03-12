@@ -6,6 +6,8 @@ tags: R programming
 keywords: 
 description: 
 ---
+The purpose is to compute the Precision-Recall Curve and to compute the Area Under this Curve (AUC-PR). Code is modified based on the R package PerfMeas.  
+
 
 Here is the C code: compute_PR_AUC.c
 ```
