@@ -7,6 +7,7 @@ keywords:
 description: 
 ---
 
+Here is the C code: compute_PR_AUC.c
 ```
 #include <stdlib.h>
 
@@ -86,6 +87,64 @@ void  trap_rule(double * x, double * y,  int * n, double * value){
     integral_value += ((x[i] - x[i-1]) * (y[i] + y[i-1]) / 2);
     
   *value = integral_value;
+}
+
+```
+
+Here is the R wrapper
+```
+# load c functions
+c_file <- "compute_PR_AUC.c"
+command_line <- paste0(" R CMD SHLIB ", c_file)
+system(command_line)
+dyn.load("compute_PR_AUC.so")
+
+is.loaded("prec_recall")
+is.loaded("trap_rule")
+
+
+# Function that implements the trapezoidal rule for integration
+# Input:
+# x : abscissa values in increasing order
+# y : ordinate values
+# Output:
+# value of the integral
+trap.rule.integral <- function (x,y){
+  if (length(x) != length(y))
+    stop("trap.rule.integral: length of x and y vectors must match");
+  integral_value = 0.0;
+  integral_value <- .C("trap_rule", as.double(x), as.double(y), as.integer(length(x)), 
+                       as.double(integral_value));
+  return (integral_value[[4]]);
+}
+
+
+# Function to compute the precision at all recall levels  for a single class
+# Input:
+# scores : vector of the predicted scores in [0,1], which will be also used as thresholds
+# labels : 0/1 vector of the true labels
+# Output: 
+# a list with 3 elements:
+# precision : precision at different thresholds
+# recall : recall at different thresholds
+# AUC
+precision_recall_AUC <- function(scores, labels){
+  n<-length(scores); 
+  if (n!=length(labels))
+    stop("precision.at.recall.level: length of labels and scores does not match");
+  if(length(which(labels > 0)) == 0)
+    return(list(res=0,precision=rep(0,n),recall=rep(0,n)));
+  scores.ordered <- order(scores, decreasing=TRUE);	
+  precision <- recall <- rep(0, n);
+  res <- .C("prec_recall", as.double(precision), as.double(recall), as.integer(scores.ordered), 
+            as.integer(labels), as.integer(n));
+  
+  precision <- res[[1]];
+  recall <- res[[2]];
+  
+  AUC_PR <- trap.rule.integral(recall, precision)
+  
+  return(list(precision=precision, recall=recall, AUC_PR=AUC_PR))  
 }
 
 ```
