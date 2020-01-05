@@ -1,5 +1,5 @@
 
-[自由而无用的灵魂](http://equusprobus.org/)
+[自由而无用的灵魂](http://equusprobus.com/)
 
 fork from [Anya Lin](https://github.com/lay1010)
 
