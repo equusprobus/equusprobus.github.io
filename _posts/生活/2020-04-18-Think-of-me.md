@@ -29,7 +29,8 @@ There will never be a day
 When I won't think of you   
 
 Flowers fade, the fruits of summer fade   
-They have their seasons so do we   
+They have their seasons so do we     
 But please promise me that sometimes   
 You will think  
-of me  
+  of me  
+------ The Phantom of the Opera
