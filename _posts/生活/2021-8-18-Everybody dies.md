@@ -29,4 +29,4 @@ Fuck them, fuck everything. 我们来到这个世界上，生老病死，跟其�
 
 早点认清现实才是出路。
 
-So know what you have and what options are available to you in reality, maximize your freedom and happiness. This is the only thing that matters to you in your whole life. 
+So know what you have and what options are available to you in reality, maximize your freedom and happiness. This is the only thing that matters to you in your entire life. 
