@@ -27,6 +27,6 @@ Fuck them, fuck everything. 我们来到这个世界上，生老病死，跟其�
 
 这才是人类社会的现实。你再不爽也没有用的。
 
-早点认清现实才是出路。
+人生而自由，但走入社会后我们就变成了“社会关系的总和”。你能做的，只能是在这个社会关系里攀爬游走。
 
 So know what you have and what options are available to you in reality, maximize your freedom and happiness. This is the only thing that matters to you in your entire life. 
