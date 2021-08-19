@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 最近悟到的(2)
+title: Everybody dies
 category: 生活
 tags: 
 keywords: 
