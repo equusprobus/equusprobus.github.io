@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-Roger Federer is my favorite tennis player. It is not because he won 20 grand slams but because what he has contributed to tennis as a sport and the way he plays. 
+Roger Federer is my favorite tennis player. It is not because he won 20 grand slams but because what he has contributed to tennis and the way he plays. 
 
 Right after Roger Federer won his first Grand Slam title at Wimbledon in 2003, he became unbeatable and dominated the tennis world by wining most of the Grand Slam titles in the next couple of years. Why? My understanding is that he discovered the role of wrist in tennis playing and unleashed a new power that was never known to previous players. Before him, when a player hit a ball, he moves his legs, his body, and his arms. Roger added wrist. So While other players _hit_ a ball, he _whips_ it. This makes his forehand so fluid and so powerful yet without a big swing of the racket. Most of his rivals back then couldn't find a solution to his game because of this.  
 
