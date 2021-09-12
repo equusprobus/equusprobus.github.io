@@ -15,4 +15,4 @@ Roger Federer is the last person that plays both the old era serve-and-volley an
 
 Roger's unique and greatest contribution to tennis is that he turns tennis from sport to an art. The level of aesthetics and grace that he demonstrates on the tennis court prompts jounalists decribing watching his games a "religious experience". The awe and wonder from witnessing his impossible shots, his flawless glide over the count, his ease at handling all incoming balls, even his focus, composure, and facial expression when striking the ball, all make you feel joy and satisfaction deep in your heart, sometimes so strong that only a religious ecstasy can be comparable to that experience. 
 
-In my eyes, Roger is irreplaceable 'cause no one can ever play like that. No matter how many Grand Slam titles other players may get, he is simply the greatest tennis player of all times and the one I will always admire and love. 
+In my eyes, Roger is irreplaceable 'cause no one can ever play like that. No matter how many grand slams other players may get, he is simply the greatest tennis player of all times and the one I will always admire and love. 
