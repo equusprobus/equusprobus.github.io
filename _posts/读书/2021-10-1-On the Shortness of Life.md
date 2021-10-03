@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Shortness of Life - Lucius Seneca（节选）
+title: On the Shortness of Life - Lucius Seneca
 category: 读书
 tags: Philosophy
 keywords: 
