@@ -19,9 +19,9 @@ No activity can be successfully pursued by an individual who is preoccupied - No
 
 Learning how to live takes a whole life, and which may surprise you more, it takes a whole life to learn how to die. 
 
-So you must not think a man has lived long because he has white hair and wrinkles: he has not lived long, just existed long. For suppose you should think that a man had had a long voyage who had been caught in a raging storm as he left harbour, and carried hither and thither and riven round and round in a circle by the rage of opposing winds? He did not have a long voyage, just a long tossing about. 
+So you must not think a man has lived long because he has white hair and wrinkles: he has not lived long, just existed long. For suppose you should think that a man had had a long voyage who had been caught in a raging storm as he left harbour, and carried hither and thither and driven round and round in a circle by the rage of opposing winds? He did not have a long voyage, just a long tossing about. 
 
-You have been preoccumpied while life hastens on. 
+You have been preoccupied while life hastens on. 
 
 Some men are preoccupied even in their leisure: in their country house, on their couch, in the midst of solitude, even when quite alone, they are their own worst company. 
 
