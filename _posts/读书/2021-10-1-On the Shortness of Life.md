@@ -25,9 +25,4 @@ You have been preoccumpied while life hastens on.
 
 Some men are preoccupied even in their leisure: in their country house, on their couch, in the midst of solitude, even when quite alone, they are their own worst company. 
 
-Of all people only those are at leisure 
-
-*(Book One - Information In War)*
-
-
-As long as his men are full of good courage 
+Of all people only those are at leisure who make time for philosophy, only those are really alive. For they not only keep a good watch over their own lifetimes, but they annex every age to theirs. All the years that have passed before the are added to their own. Unless we are very ungrateful, all those distinguished founders of holy creeds were born for us and prdpared for us a way of life. By the toil of others we are led into the presence of things which have been brought from darkness into light. We are excluded from no age, but we have access to them all; and if we are prepared in loftiness of mind to pass beyond the narrow confines of human weakness, there is a long period of time through which we can roam. We can  
